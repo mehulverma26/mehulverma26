@@ -8,6 +8,6 @@
 ## 📊 My GitHub Data:
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=soumyajit4419&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=soumyajit4419&" alt="soumyajit" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mehulverma26&show_icons=true" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehulverma26&" alt="mehulverma" />
 </div>
