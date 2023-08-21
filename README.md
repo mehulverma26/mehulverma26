@@ -1,8 +1,10 @@
 ## 📱 Contact me:
 
 <p align="left">
-<h3>LinkedIn</h3><a href="https://linkedin.com/in/mehulverma26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehulverma26" height="30" width="40" /></a>
-<h3>Instagram</h3><a href="https://instagram.com/mehulverma26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehulverma26" height="30" width="40" /></a>
+<div class="row">
+  <div class="column"><h3>LinkedIn</h3><br><h3>Instagram</h3></div>
+  <div class="column"><a href="https://linkedin.com/in/mehulverma26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehulverma26" height="30" width="40" /></a><br><a href="https://instagram.com/mehulverma26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehulverma26" height="30" width="40" /></a></div>
+</div>
 </p>
 
 ## 📊 My GitHub Data:
