@@ -7,7 +7,8 @@ I'm a BCA student at CHRIST University, skilled in Mac OS, Windows, Linux, Java,
 ## 📱 Contact me:
 
 <p align="left">
-<a href="https://mehulverma.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fmehulverma.netlify.app%2F"></a><a href="https://www.linkedin.com/in/mehulverma26/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a><br><a href="https://www.instagram.com/mehulverma26" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+<a href="https://mehulverma.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Fmehulverma.netlify.app%2F&style=for-the-badge&logo=Internet%20Explorer&logoColor=%230076D6&color=%231A1110">
+</a><a href="https://www.linkedin.com/in/mehulverma26/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a><br><a href="https://www.instagram.com/mehulverma26" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
 </p>
 
 ## 🛠 Tools and Languages:
