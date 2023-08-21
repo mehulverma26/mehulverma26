@@ -1,6 +1,9 @@
 ## Contact me:
 
 <p align="left">
+ <a href="https://www.linkedin.com/in/mehulverma26/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+ <a href="https://www.instagram.com/mehulverma26" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"  height="30px"/></a>
+</p>
 <a href="https://linkedin.com/in/mehulverma26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mehulverma26" height="30" width="40" /></a>
 <a href="https://instagram.com/mehulverma26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mehulverma26" height="30" width="40" /></a>
 </p>
