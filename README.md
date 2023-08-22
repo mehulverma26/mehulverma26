@@ -1,4 +1,4 @@
-## About me:
+## 🙎‍♂️ About me:
 
 <p align="left">
 I'm a BCA student at CHRIST University, skilled in Mac OS, Windows, Linux, Java, HTML, CSS, and Python. Proficient in Organizational Leadership, Event Planning, and Team Coordination. My broad skill set, academic dedication, and extracurricular involvement prepare me for a career in software development or IT. I blend technical expertise with leadership for impactful results.
