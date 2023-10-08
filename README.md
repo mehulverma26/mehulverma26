@@ -25,6 +25,4 @@ I'm a BCA student at CHRIST University, skilled in Mac OS, Windows, Linux, Java,
 
 ## 📛 My Holopin Badges:
 
-<div align="center">
-  [![An image of @mehulverma26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mehulverma26)](https://holopin.io/@mehulverma26)
-</div>
+[![An image of @mehulverma26's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mehulverma26)](https://holopin.io/@mehulverma26)
