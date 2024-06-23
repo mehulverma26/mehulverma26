@@ -48,7 +48,6 @@ I'm a BCA student at CHRIST University, skilled in Mac OS, Windows, Linux, Java,
     <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehulverma26&theme=github_dark" />
     <img src="https://github-readme-stats.vercel.app/api?username=mehulverma26&show_icons=true&theme=github_dark&hide_border=true" />
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehulverma26&theme=github-dark-blue&hide_border=true" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=mehulverma26&theme=react-dark" />
 </a>
 </p>
 
