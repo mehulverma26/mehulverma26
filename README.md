@@ -14,7 +14,7 @@ I'm a BCA student at CHRIST University, skilled in Mac OS, Windows, Linux, Java,
 ## 🛠 Tools and Languages:
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=00599C)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
