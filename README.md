@@ -39,10 +39,25 @@ I'm a BCA student at CHRIST University, skilled in Mac OS, Windows, Linux, Java,
 <a href="https://github.com/mehulverma26">
   <img src="https://komarev.com/ghpvc/?username=mehulverma26&label=Profile%20views&color=0e75b6&style=for-the-badge"/>
 </a>
-<div align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=mehulverma26&show_icons=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mehulverma26&" alt="mehulverma" />
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehulverma26&theme=algolia&layout=compact"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mehulverma26">
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mehulverma26&theme=github_dark" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mehulverma26&show_icons=true&theme=github_dark&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mehulverma26&theme=github-dark-blue&hide_border=true" />
+    <img src="https://activity-graph.herokuapp.com/graph?username=mehulverma26&theme=react-dark" />
+</a>
+</p>
+
+## 🏆 GitHub Trophy:
+<p align="center">
+<a href="https://github.com/mehulverma26/">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=mehulverma26&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+</a>
+</p>
 
 ## 📛 My Holopin Badges:
 
